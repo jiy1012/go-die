@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<go-die version="1">
+    <port>5461</port>
+    <mysql name="host_app">
+        <host>127.0.0.1</host>
+        <port>3306</port>
+    </mysql>
+    <table name="id_sequence">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>10</db_num>
+        <table_num>100</table_num>
+    </table>
+    <table name="reward_links">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>10</db_num>
+        <table_num>100</table_num>
+    </table>
+    <table name="user_account">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>10</db_num>
+        <table_num>100</table_num>
+    </table>
+    <table name="account_users">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>10</db_num>
+        <table_num>100</table_num>
+    </table>
+    <table name="user_building_decoration">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>10</db_num>
+        <table_num>100</table_num>
+    </table>
+    <table name="user_building_farmland">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>10</db_num>
+        <table_num>100</table_num>
+    </table>
+    <table name="user_building_fruit">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="user_building_pasture">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="user_building_workshop">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="workshop_info">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="zoo_info">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="user_building_zoo">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="user_building_wishingwell">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="user_express">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="user_box">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="user_garbagetrees">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="user_order">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="user_dailymission">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="user_trade">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="user_achievement">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="user_facebook">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="user_activity_v1">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="user_sns">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="user_gamecenter">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="user_friend">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="user_notify_token">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="user_map">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="user_mapping">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="user_package">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="user_unlockitem">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="user_get_link_reward">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="train_rank">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="user_building_pet">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="vip_card">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="user_album">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="user_gift">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="user_jigsawpuzzle">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="user_fishpond">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="paylog">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="payuserstatus">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="blacklist">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="details_paid">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="details_points">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="daily_reg_pay">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="daily_retention">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+    <table name="daily_retention_channel">
+        <host>host_app</host>
+        <db_name>hit</db_name>
+        <db_num>1</db_num>
+        <table_num>1</table_num>
+    </table>
+</go-die>
